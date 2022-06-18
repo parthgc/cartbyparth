@@ -1,0 +1,15 @@
+#top, #bottom { 
+    right: 20px;
+    position:fixed;
+}
+#bottom{
+    z-index: 8;
+    font-size: 40px;
+    color: green;
+}
+#top{
+    right: 33px;
+    z-index: 9;
+    color: white;
+    font-weight: bold;
+}
