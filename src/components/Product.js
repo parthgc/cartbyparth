@@ -3,7 +3,7 @@ import React from 'react'
 export default function Product(props) {
     return (
         <div className="row m-3 d-flex justify-content-center">
-            <div className="col-5">
+            <div className="col-4">
                 <h2>{props.product.name} <span class="badge bg-secondary">₹{props.product.price}</span></h2>
             </div>
             <div className="col-4">
@@ -14,7 +14,7 @@ export default function Product(props) {
                 </div>
                 <span className="badge bg-dark m-1">{props.product.quantity*props.product.price}</span>
             </div>
-            <button className="btn btn-danger col-3" onClick={() => {props.remove(props.index)}} >Remove</button>
+            <button className="btn btn-danger col" onClick={() => {props.remove(props.index)}} >Remove</button>
         </div>
     )
 }
