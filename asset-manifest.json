@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cartbyparth/static/css/main.64400764.css",
-    "main.js": "/cartbyparth/static/js/main.235a0e78.js",
+    "main.js": "/cartbyparth/static/js/main.e779dca6.js",
     "static/js/787.adcd796b.chunk.js": "/cartbyparth/static/js/787.adcd796b.chunk.js",
     "index.html": "/cartbyparth/index.html",
     "main.64400764.css.map": "/cartbyparth/static/css/main.64400764.css.map",
-    "main.235a0e78.js.map": "/cartbyparth/static/js/main.235a0e78.js.map",
+    "main.e779dca6.js.map": "/cartbyparth/static/js/main.e779dca6.js.map",
     "787.adcd796b.chunk.js.map": "/cartbyparth/static/js/787.adcd796b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.64400764.css",
-    "static/js/main.235a0e78.js"
+    "static/js/main.e779dca6.js"
   ]
 }
